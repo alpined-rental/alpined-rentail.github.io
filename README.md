@@ -1,1 +1,1 @@
-# alpined-rentail.github.io
+# alpined-rental.github.io
